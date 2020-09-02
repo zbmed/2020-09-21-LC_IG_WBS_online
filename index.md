@@ -146,8 +146,9 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> 
+  - Technickcheck Zoom Link: https://zoom.us/j/91414997789?pwd=SDZxeUNVeWk1a0pvTkUrd0xXblJCUT09, Meeting-ID: 914 1499 7789, Kenncode: 719040
+  - Workshop Zoom Link: https://zoom.us/j/95710087850?pwd=R1llRlpab2JpOWlBc0gxT1Q0eG5wQT09, Meeting-ID: 957 1008 7850, Kenncode: 581529
 </p>
 {% endif %}
 
