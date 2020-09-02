@@ -146,9 +146,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> 
-  <p>Technickcheck Zoom Link: https://zoom.us/j/91414997789?pwd=SDZxeUNVeWk1a0pvTkUrd0xXblJCUT09, Meeting-ID: 914 1499 7789, Kenncode: 719040</p>
-  <p>Workshop Zoom Link: https://zoom.us/j/95710087850?pwd=R1llRlpab2JpOWlBc0gxT1Q0eG5wQT09, Meeting-ID: 957 1008 7850, Kenncode: 581529</p>
+  <strong>Where:</strong> This is an online Workshop. The Instructors will send you more Information about the online meeting via Mail.
 </p>
 {% endif %}
 
