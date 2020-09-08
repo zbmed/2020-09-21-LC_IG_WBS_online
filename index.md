@@ -75,16 +75,47 @@ displayed if the 'eventbrite' field in the header is not set.
 {% if page.eventbrite %}
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
+
+
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid=120040591641"
+
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe>
+
+
+<iframe
   src="https://www.eventbrite.com/tickets-external?eid=120041044997"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe>
+
+
+<iframe
   src="https://www.eventbrite.com/tickets-external?eid=120041135267"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe>
+
+
+<iframe
   src="https://www.eventbrite.com/tickets-external?eid=120041283711"
   frameborder="0"
   width="100%"
   height="280px"
   scrolling="auto">
 </iframe>
+
+
+
+
 {% endif %}
 
 
